@@ -6,7 +6,7 @@ Create a virtual environment
 
 ```python
 # Run the following in an empty directory to create a virtual environment
-# On PC
+# On Windows
 python -m venv venv
 .\venv\Scripts\activate.ps1
 
